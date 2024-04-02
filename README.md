@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dorota</h1>
-<h3 align="center">a former demand planning analyst, computer science student and .net back-end developer</h3>
+<h3 align="center">a demand planning analyst, computer science student and .net back-end developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
